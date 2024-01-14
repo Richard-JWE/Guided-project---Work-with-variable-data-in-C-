@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dy8aUDh0qObAP3V0wTwmGoX946/H2bW2I452NcZEEGg4sJzXzmsWzG2CG6+sYHB61U7GUwPUu7f/UUBFCcCnHQ==",
+  "success": true,
+  "projectFilePath": "/Users/richardjameson/Downloads/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/richardjameson/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/richardjameson/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/richardjameson/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
